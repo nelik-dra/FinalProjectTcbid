@@ -1,1 +1,3 @@
 בלבה בלה בלה
+
+select * from employees 
