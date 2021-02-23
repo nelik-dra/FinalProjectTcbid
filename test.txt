@@ -1,5 +1,11 @@
+
 בלבה בלה בלה
 
 select * from employees 
 
 israel vino20:40 ‏23/‏02/‏2021
+
+dudi 
+Majdi
+majdi11
+
